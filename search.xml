@@ -12,17 +12,6 @@
       </tags>
   </entry>
   <entry>
-    <title>about-xperia</title>
-    <url>/2021/06/11/about-xperia/</url>
-    <content><![CDATA[<h1 id="Sony-Xperia"><a href="#Sony-Xperia" class="headerlink" title="Sony Xperia"></a>Sony Xperia</h1>]]></content>
-      <categories>
-        <category>xperia</category>
-      </categories>
-      <tags>
-        <tag>xperia</tag>
-      </tags>
-  </entry>
-  <entry>
     <title>about-zpl</title>
     <url>/2021/01/19/about-zpl/</url>
     <content><![CDATA[<h2 id="ZPL-相关"><a href="#ZPL-相关" class="headerlink" title="ZPL 相关"></a>ZPL 相关</h2><h4 id="设置打印语言"><a href="#设置打印语言" class="headerlink" title="设置打印语言"></a>设置打印语言</h4><figure class="highlight plain"><table><tr><td class="code"><pre><span class="line">! U1 setvar &quot;device.languages&quot; &quot;zpl&quot; \n</span><br></pre></td></tr></table></figure>
@@ -34,6 +23,17 @@
       </categories>
       <tags>
         <tag>zpl</tag>
+      </tags>
+  </entry>
+  <entry>
+    <title>about-xperia</title>
+    <url>/2021/06/11/about-xperia/</url>
+    <content><![CDATA[<h1 id="Sony-Xperia"><a href="#Sony-Xperia" class="headerlink" title="Sony Xperia"></a>Sony Xperia</h1>]]></content>
+      <categories>
+        <category>xperia</category>
+      </categories>
+      <tags>
+        <tag>xperia</tag>
       </tags>
   </entry>
   <entry>
